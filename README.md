@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# React Front To Back 2022
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills.
 
-### `npm start`
+The first project (Feedback App) is structured in a way so I can explain the fundamentals such as components, hooks, props, state, etc in a way that beginners can understand. The second project (Github Finder) will show you how to work with 3rd party APIs and the third project (House Marketplace) is a larger app that uses Firebase 9 and includes authentication, Firestore queries, file storage and more.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The final project has been added! It is a fullstack MERN support ticket system that uses Redux and Redux Toolkit.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Here are some of the things you will learn in this course:
 
-### `npm test`
+React fundamentals including components, props, hooks, state, etc
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+React hooks such as useState, useEffect, useContext, useReducer, useRef, etc
 
-### `npm run build`
+Creating custom hooks
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React Router v6 (latest version)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+How to handle global state with context, reducers and hooks
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Firebase 9 authentication, queries, storage
 
-### `npm run eject`
+Deploying React apps to Vercel & Netlify
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Basic Animation with Framer Motion
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Implement Leaflet maps and Swiper sliders
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Fullstack MERN (MongoDB, Express, React, Node.js)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+REST API creation
 
-## Learn More
+Redux
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Redux Toolkit
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Authentication with JWT
 
-### Code Splitting
+Much More...
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This course has been completely re-done with new projects and concepts from the old course. I have a few React courses and this is the one that I always suggest people start with before moving on to the MERN courses
