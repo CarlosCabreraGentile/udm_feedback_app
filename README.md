@@ -1,6 +1,8 @@
 # React Front To Back 2022
 
-Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app
+Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app.
+
+https://www.udemy.com/course/react-front-to-back-2022/
 
 ## Description
 
